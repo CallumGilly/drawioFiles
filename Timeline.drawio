@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T12:02:35.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="uAoiKl8FkbtzVgtbXpRR" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T12:05:12.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="OLBQ_Z_xhcs41ulR3y7t" version="20.5.1" type="github">
   <diagram id="Hfp_nFBmrhLJfmmzOQYd" name="Page-1">
-    <mxGraphModel dx="457" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="701" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,6 +114,12 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hngakcid7h4D51hFVWwR-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;size=0.5;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hngakcid7h4D51hFVWwR-12" value="Overlap to allow for more natural transition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
